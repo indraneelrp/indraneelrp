@@ -1,6 +1,6 @@
 👋 Hey, I’m @indraneelrp 
 <br>
-### How to navigate my work:
+### How to navigate my (public) repos:
 <ul>
   <li><h4>🎛️ Machine learning:</h4></li>
   <ul>
