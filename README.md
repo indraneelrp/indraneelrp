@@ -17,7 +17,7 @@
   </ul>
   <li><h4>💻 Web dev:</h4></li>
   <ul>
-    <li><strong>greengauge-frontend</strong>, <strong>OpenBill-deployed-v1</strong></li>
+    <li><strong>greengauge-frontend</strong>, <strong>openbill-deployed</strong></li>
   </ul>
   <li><h4>⌚️ Embedded Systems:</h4></li>
   <ul>
