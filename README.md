@@ -1,4 +1,4 @@
-👋 Hey, I’m @indraneelrp 
+👋 Hey, I’m indraneel!
 <br>
 ### How to navigate my (public) repos:
 <ul>
